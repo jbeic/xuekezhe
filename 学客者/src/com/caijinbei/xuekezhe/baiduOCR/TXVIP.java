@@ -20,7 +20,7 @@ import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
 
-public class HttpClientTest02 {
+public class TXVIP {
 
 	public static void main(String[] args) {
 		String getMsg =getMsg("Ïç´å°®Çé");
